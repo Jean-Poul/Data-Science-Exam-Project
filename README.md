@@ -68,16 +68,11 @@ Which news sites are relevant for our purpose and where do we collect our market
 Can we correlate news with the price action?   
 
 - Hypothesis:  
-
 The Research Hypothesis:   
-Can trends on the stock market be predicted, by analyzing publicity in news outlets.
+Can trends on the stock markets be predicted, by analyzing publicity in news outlets.
 
-The Null Hypothesis: 
-Trends on the stock market can not be predicted by analyzing news outlets.
-
-<br>  
-
-
+The Null Hypothesis:  
+There is no correlation between news outlets and trends on the stock markets.
 
 
 4.    Prepare the technical platform needed for researching and developing the problem solution:
