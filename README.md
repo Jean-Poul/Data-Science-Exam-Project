@@ -51,19 +51,25 @@ We will be more precise when we have chosen a subject but overall we have looked
 [NASA for dataset](https://data.nasa.gov/)  
 
 3. ### Choose one of the ideas and formulate context, purpose, research questions, and hypothesis for a data science problem definition.
-We have chosen to go with our first idea by looking at the stock market.
+We have chosen to go with our first idea by looking at the stock market.  
+<br>
 Context:  
 Is it possible to affect the price/trend of a stock when it is mentioned in the news?   
+<br>
 Purpose:  
-The purpose is to predict the future trend of a stock by looking at the publicity of the mentioned stock/company to guide our own investment plan.  
+The purpose is to predict the future trend of a stock by looking at the publicity of the mentioned stock/company to guide our own investment plan. 
+<br>
 Research questions:    
-What stock exchange will be interesting for our purpose?
-Where should we look for news regarding stocks?  
-How do other people gather information in this area?  
-How do we differentiate between positive and negative news?  
-Which news sites are relevant for our purpose and where do we collect our market data regarding the stocks in focus?
-Can we correlate news with the price action?  
+What stock exchange will be interesting for our purpose?  
+Where should we look for news regarding stocks?    
+How do other people gather information in this area?    
+How do we differentiate between positive and negative news?    
+Which news sites are relevant for our purpose and where do we collect our market data regarding the stocks in focus?  
+Can we correlate news with the price action?    
+<br>
 Hypothesis:  
+
+<br>
 
 
 
