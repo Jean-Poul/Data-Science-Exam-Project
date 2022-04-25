@@ -1,23 +1,21 @@
 # Exam Project Stage 1: Business
 
-DESCRIPTION
+## Objective: Foundation of a business case
 
-Objective: Foundation of a business case
+### 1. By brainstorming and browsing sources of inspiration collect ideas and define one or more business or social domains, where data analysis can bring a value.  
 
-1. ### By brainstorming and browsing sources of inspiration collect ideas and define one or more business or social domains, where data analysis can bring a value.  
-2. 
 During our brainstorm we had the following ideas:
-- Stock market: 
+- Stock market:  
 Is it possible to find trends in stocks/indices and is it possible for outside events to affect the price action.
-- Gaming: 
+- Gaming:   
 What parameters does it take to make a good game and can we predict how well a game will sell.
-- Programmer:
+- Programmer:  
 What paramters (programming language, age, experience, location, education, gender) has an effect on a developers salary.
-- Health:
+- Health:  
 Can we predict whether a person will get a specific health issue (heart disease, diabetes, cancer) when looking at their current health factors.
-- Sport:
+- Sport:  
 Can we predict whether a football team will win when looking at their current lineup.  
-- Space:
+- Space:  
 Can we classify whether we have identified a new planet or is it an already discovered planet.
 
 2. ### Search Internet for sources of information, related to your ideas.
