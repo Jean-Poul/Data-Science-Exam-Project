@@ -51,8 +51,8 @@ We will be more precise when we have chosen a subject but overall we have looked
 [NASA for dataset](https://data.nasa.gov/)  
 
 3. ### Choose one of the ideas and formulate context, purpose, research questions, and hypothesis for a data science problem definition.
-We have chosen to go with our first idea by looking at the stock market.  
-<br>
+We have chosen to go with our first idea by looking at the stock market.   
+
 - Context:  
 Is it possible to affect the price/trend of a stock when it is mentioned in the news?  
 
