@@ -74,23 +74,40 @@ Can trends on the stock markets be predicted, by analyzing publicity in news out
 The Null Hypothesis:  
 There is no correlation between news outlets and trends on the stock markets.
 
+### 4. Prepare the technical platform needed for researching and developing the problem solution:  
 
-4.    Prepare the technical platform needed for researching and developing the problem solution:
+a. select and install software tools and development environments 
+(Can change when further information has been gathered and scope of the assignment) 
 
-a.    select and install software tools and development environments
+Software tools:  
+Jupyter notebook  
+Docker runtime  
 
-b.   create a Github repository, which will host all project components during all stages of the development and implementation process.
+Languages:  
+Python  
 
-c.    create and upload a .md file as an initial release of the project, which contains title and brief annotation of your project, in minimum four sentences, telling:
+Libraries:  
+Numpy
+Matplotlib
+Pandas
+Sklearn
+Seaborn
 
-·      what is in the focus of your interest?
+Databases:  
+MongoDB(store the data)  
+Neo4J(analyse relations between the data)  
 
-·      why is it interesting?
+Programming environment:  
+Agile methods such as scrum(meetings and kanban board) and extreme programming(pair programming)  
+Depending on scope of the project then DevOps might be applied to make a pipeline and use CI/CD.   
 
-·      which outcome do you expect from your research?
+### Title of our project:  
+The medias influence on the stock market  
 
-·      who may be a user of the results?
+### Brief annotation:  
+Our focus will be to build a model which can analyze if news are negative or positive. The next step will be to evaluate if there is a direct correlation with these news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing/trading. Our model could be a tool to help newcommers to establish confidence in their investment/trade.  
 
-Submit the Github repository link in Peergrade.
+
+This Github repository will be linked in Peergrade.
 
 Deadline: 29<sup>th</sup> April 2022
