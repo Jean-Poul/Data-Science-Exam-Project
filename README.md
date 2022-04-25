@@ -1,4 +1,4 @@
-# The medias influence on the stock market  
+# The Medias Influence on the Stock Market  
 
 ## Group Members
 
