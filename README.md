@@ -1,6 +1,11 @@
-# Exam Project Stage 1: Business
+# The medias influence on the stock market  
 
-## Objective: Foundation of a business case
+## Brief introduction:  
+Our focus will be to build a model which can analyze if news are negative or positive. The next step will be to evaluate if there is a direct correlation with these news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing/trading. Our model could be a tool to help newcommers to establish confidence in their investment/trade.  
+
+### Exam Project Stage 1: Business
+
+### Objective: Foundation of a business case
 
 ### 1. By brainstorming and browsing sources of inspiration collect ideas and define one or more business or social domains, where data analysis can bring a value.  
 
@@ -51,7 +56,7 @@ We will be more precise when we have chosen a subject but overall we have looked
 [NASA for dataset](https://data.nasa.gov/)  
 
 ### 3. Choose one of the ideas and formulate context, purpose, research questions, and hypothesis for a data science problem definition.
-We have chosen to go with our first idea by looking at the stock market.   
+We have chosen to go with our first idea by looking at the stock market since we have an interest for this area and there is a lot of data to be found.   
 
 - Context:  
 During COVID-19 a lot of average people started to invest in the stock market due to many factors. However the average person investing on a hobbyist basis, without any formal degree, most likely use some kind of information source as a basis for their investment choices. We would except to see that traditional news outlets, still have a dominant influence over investment choices. Therefore by analyzing news outlets we could potentially predict the future trend of a stock, and thereby formulate a guide for our own investment choice.
@@ -69,8 +74,7 @@ Can we correlate news with the price action?
 
 - Hypothesis:  
 The Research Hypothesis:   
-Can trends on the stock markets be predicted, by analyzing publicity in news outlets.
-
+Can trends on the stock markets be predicted, by analyzing publicity in news outlets.  
 The Null Hypothesis:  
 There is no correlation between news outlets and trends on the stock markets.
 
@@ -100,12 +104,6 @@ Neo4J(analyse relations between the data)
 Programming environment:  
 Agile methods such as scrum(meetings and kanban board) and extreme programming(pair programming)  
 Depending on scope of the project then DevOps might be applied to make a pipeline and use CI/CD.   
-
-### Title of our project:  
-The medias influence on the stock market  
-
-### Brief annotation:  
-Our focus will be to build a model which can analyze if news are negative or positive. The next step will be to evaluate if there is a direct correlation with these news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing/trading. Our model could be a tool to help newcommers to establish confidence in their investment/trade.  
 
 
 This Github repository will be linked in Peergrade.
