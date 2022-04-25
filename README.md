@@ -80,32 +80,29 @@ There is no correlation between news outlets and trends on the stock markets.
 
 ### 4. Prepare the technical platform needed for researching and developing the problem solution:  
 
-a. select and install software tools and development environments 
-(Can change when further information has been gathered and scope of the assignment) 
+The following is an overview over our initial thoughts about our programming environment. This can change when further information has been gathered and scope of the assignment has been agreed apon.  
 
-Software tools:  
+- Software tools:  
 Jupyter notebook  
 Docker runtime  
 
-Languages:  
+- Languages:  
 Python  
 
-Libraries:  
+- Libraries:  
 Numpy
 Matplotlib
 Pandas
 Sklearn
 Seaborn
 
-Databases:  
+- Databases:  
 MongoDB(store the data)  
 Neo4J(analyse relations between the data)  
 
-Programming environment:  
+- Programming environment:  
 Agile methods such as scrum(meetings and kanban board) and extreme programming(pair programming)  
 Depending on scope of the project then DevOps might be applied to make a pipeline and use CI/CD.   
 
 
-This Github repository will be linked in Peergrade.
 
-Deadline: 29<sup>th</sup> April 2022
