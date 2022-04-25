@@ -54,7 +54,7 @@ We will be more precise when we have chosen a subject but overall we have looked
 We have chosen to go with our first idea by looking at the stock market.   
 
 - Context:  
-Is it possible to affect the price/trend of a stock when it is mentioned in the news?  
+During COVID-19 a lot of average people started to invest in the stock market due to many factors. However the average person investing on a hobbyist basis, without any formal degree, most likely use some kind of information source as a basis for their investment choices. We would except to see that traditional news outlets, still have a dominant influence over investment choices. Therefore by analyzing news outlets we could potentially predict the future trend of a stock, and thereby formulate a guide for our own investment choice.
 
 - Purpose:  
 The purpose is to predict the future trend of a stock by looking at the publicity of the mentioned stock/company to guide our own investment plan.    
@@ -69,9 +69,11 @@ Can we correlate news with the price action?
 
 - Hypothesis:  
 
-The Research Hypothesis: News have an impact on stock prices
+The Research Hypothesis:   
+Can trends on the stock market be predicted, by analyzing publicity in news outlets.
 
-The Null Hypothesis: News do not have an impact on stock prices
+The Null Hypothesis: 
+Trends on the stock market can not be predicted by analyzing news outlets.
 
 <br>  
 
