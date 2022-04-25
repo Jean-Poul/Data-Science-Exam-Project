@@ -20,35 +20,35 @@ Can we classify whether we have identified a new planet or is it an already disc
 
 ### 2. Search Internet for sources of information, related to your ideas.
 We will be more precise when we have chosen a subject but overall we have looked at the following sources for gathering data:
-- Stock market:
-[Kaggle for dataset](https://www.kaggle.com/)
-[NYSE for data and news](https://www.nyse.com/index)
-[CNBC for news](https://www.cnbc.com/world/?region=world)
+- Stock market:  
+[Kaggle for dataset](https://www.kaggle.com/)  
+[NYSE for data and news](https://www.nyse.com/index)  
+[CNBC for news](https://www.cnbc.com/world/?region=world)  
 
-- Gaming:
-[Kaggle for dataset](https://www.kaggle.com/)
-[Steam database](https://steamdb.info/)
-[Statistics](https://www.statista.com/topics/1680/gaming/#topicHeader__wrapper)
+- Gaming:  
+[Kaggle for dataset](https://www.kaggle.com/)  
+[Steam database](https://steamdb.info/)  
+[Statistics](https://www.statista.com/topics/1680/gaming/#topicHeader__wrapper)  
 
-- Programmer:  
-[Kaggle for dataset](https://www.kaggle.com/)
-[Salary](https://data.world/datasets/salary)
-[Statistics](https://review42.com/resources/video-game-statistics/)
+- Programmer:    
+[Kaggle for dataset](https://www.kaggle.com/)  
+[Salary](https://data.world/datasets/salary)  
+[Statistics](https://review42.com/resources/video-game-statistics/)  
 
-- Health: 
-[Kaggle for dataset](https://www.kaggle.com/)
-[Data.world for dataset](https://data.world/datasets/health)
-[Healthdata for dataset](https://healthdata.gov/)
+- Health:   
+[Kaggle for dataset](https://www.kaggle.com/)  
+[Data.world for dataset](https://data.world/datasets/health)  
+[Healthdata for dataset](https://healthdata.gov/)  
 
-- Sport: 
-[Kaggle for dataset](https://www.kaggle.com/)
-[Data.world for dataset](https://data.world/datasets/sports)
-[Statistics](https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/)
+- Sport:   
+[Kaggle for dataset](https://www.kaggle.com/)  
+[Data.world for dataset](https://data.world/datasets/sports)  
+[Statistics](https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/)  
 
-- Space:
-[Kaggle for dataset](https://www.kaggle.com/)
-[Data.world for dataset](https://data.world/datasets/space)
-[NASA for dataset](https://data.nasa.gov/)
+- Space:  
+[Kaggle for dataset](https://www.kaggle.com/)  
+[Data.world for dataset](https://data.world/datasets/space)  
+[NASA for dataset](https://data.nasa.gov/)  
 
 
 
