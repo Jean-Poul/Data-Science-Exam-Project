@@ -50,7 +50,7 @@ We will be more precise when we have chosen a subject but overall we have looked
 [Data.world for dataset](https://data.world/datasets/space)  
 [NASA for dataset](https://data.nasa.gov/)  
 
-3. ### Choose one of the ideas and formulate context, purpose, research questions, and hypothesis for a data science problem definition.
+### 3. Choose one of the ideas and formulate context, purpose, research questions, and hypothesis for a data science problem definition.
 We have chosen to go with our first idea by looking at the stock market.   
 
 - Context:  
@@ -68,6 +68,10 @@ Which news sites are relevant for our purpose and where do we collect our market
 Can we correlate news with the price action?   
 
 - Hypothesis:  
+
+The Research Hypothesis: News have an impact on stock prices
+
+The Null Hypothesis: News do not have an impact on stock prices
 
 <br>  
 
