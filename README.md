@@ -1,5 +1,11 @@
 # The medias influence on the stock market  
 
+## Group Members
+
+- Allan Bo Simonsen, cph-as484
+- Jean-Poul Leth-Møller, cph-jl360
+- Nina Lisakowski, cph-nl163
+
 ## Brief introduction:  
 Our focus will be to build a model which can analyze if news are negative or positive. The next step will be to evaluate if there is a direct correlation with these news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing/trading. Our model could be a tool to help newcommers to establish confidence in their investment/trade.  
 
