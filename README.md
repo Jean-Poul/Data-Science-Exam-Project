@@ -96,11 +96,11 @@ Docker runtime
 Python  
 
 - Libraries:  
-Numpy
-Matplotlib
-Pandas
-Sklearn
-Seaborn
+Numpy  
+Matplotlib  
+Pandas  
+Sklearn  
+Seaborn  
 
 - Databases:  
 MongoDB(store the data)  
