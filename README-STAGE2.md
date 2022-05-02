@@ -14,7 +14,12 @@ Based on the ideas and assumptions defined at the previous stage of your busines
 create the first prototype of your solution implementation.
 1. Searching Internet and other media, find relevant data sources that can be used in your 
 experiments.  
+News source:  
+https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests
+https://www.kaggle.com/datasets/aaron7sun/stocknews
 
+Ticker prices:  
+https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
 
 2. Collect and integrate the data sources in shared repository by either ETL (Extract Transform Load) 
 or ELT (Extract Load Transform).  
