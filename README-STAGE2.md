@@ -21,29 +21,29 @@ or ELT (Extract Load Transform).
 
 
 3. Explore the data by applying methods of descriptive and inferential statistics. 
-a. design data processing scenario 
+ - a. design data processing scenario 
 
-b. decide on data processing parameters
+ - b. decide on data processing parameters
 
-c. apply data visualisation techniques
+ - c. apply data visualisation techniques
 
-d. prepare a dashboard as a collection of diagrams and brief explanation that can serve the 
+ - d. prepare a dashboard as a collection of diagrams and brief explanation that can serve the 
 selected business CPH Business 2022 Spring {tdi, ste}@cphbusiness.dk  
 
 4. Prepare the data for machine learning analysis, ensuring that the data is:  
 
-a. meaningful – describes relevant and correctly measured features and observations  
+ - a. meaningful – describes relevant and correctly measured features and observations  
 
-b. sufficient – describes various cases and feature occurrences, decided by testing 
+ - b. sufficient – describes various cases and feature occurrences, decided by testing 
 
-c. shaped – presented in a structure, appropriate for processing by machine learning 
+ - c. shaped – presented in a structure, appropriate for processing by machine learning 
 algorithms  
 
-d. cleaned – repaired from missing values and outliners  
+ - d. cleaned – repaired from missing values and outliners  
 
-e. scaled – transform data distributions in comparable scales, when necessary  
+ - e. scaled – transform data distributions in comparable scales, when necessary  
 
-f. engineered – analyse all features and select the most informative for further processing
+ - f. engineered – analyse all features and select the most informative for further processing
 Export your notebook solution to Github and a link to it in Peergrade.  
 
 Deadline: 6th May 2022
