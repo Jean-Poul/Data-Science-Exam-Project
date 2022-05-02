@@ -8,6 +8,12 @@
 
 ## Brief introduction:  
 
+#TODO:  
+- Clean data from missing values
+	- format='%Y-%m-%d %H:%M:%S'
+	- remove start years (2009) and ends year (NaN and 2020)
+
+
 ## Stage 2: Data
 #### Objective: Data acquisition and exploration 
 Based on the ideas and assumptions defined at the previous stage of your business case analysis,
@@ -15,6 +21,7 @@ create the first prototype of your solution implementation.
 1. Searching Internet and other media, find relevant data sources that can be used in your 
 experiments.  
 News source:  
+
 https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests
 https://www.kaggle.com/datasets/aaron7sun/stocknews
 
@@ -23,6 +30,9 @@ https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
 
 2. Collect and integrate the data sources in shared repository by either ETL (Extract Transform Load) 
 or ELT (Extract Load Transform).  
+Our data will be loaded straight into the system to begin with. This might change further down the line. Thoughts:  
+- Webscrape news.  
+- Load data from our database.   
 
 
 3. Explore the data by applying methods of descriptive and inferential statistics. 
