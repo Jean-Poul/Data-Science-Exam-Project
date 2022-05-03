@@ -1,20 +1,5 @@
-# The Medias Influence On The Stock Market  
+# Exam Project Stage 2: Data 
 
-## Group Members
-
-- Allan Bo Simonsen, cph-as484
-- Jean-Poul Leth-Møller, cph-jl360
-- Nina Lisakowski, cph-nl163
-
-## Brief introduction:  
-
-#TODO:  
-- Clean data from missing values
-	- format='%Y-%m-%d %H:%M:%S'
-	- remove start years (2009) and ends year (NaN and 2020)
-
-
-## Stage 2: Data
 #### Objective: Data acquisition and exploration 
 Based on the ideas and assumptions defined at the previous stage of your business case analysis,
 create the first prototype of your solution implementation.
@@ -61,4 +46,11 @@ algorithms
  - f. engineered – analyse all features and select the most informative for further processing
 Export your notebook solution to Github and a link to it in Peergrade.  
 
+__________________________
 Deadline: 6th May 2022
+#TODO:  
+- Clean data from missing values
+	- format='%Y-%m-%d %H:%M:%S'
+	- remove start years (2009) and ends year (NaN and 2020)
+
+
