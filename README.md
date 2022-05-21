@@ -13,4 +13,6 @@ Our focus will be to build a model which can analyze if news are negative or pos
 
 ## Links to the different stages of the porject development
 [Stage 1: Foundation of a business case](https://github.com/Jean-Poul/Data-Science-Exam-Project/blob/main/README-STAGE1.md)  
-[Stage 2: Data acquisition and exploration](https://github.com/Jean-Poul/Data-Science-Exam-Project/blob/main/README-STAGE2.md)
+[Stage 2: Data acquisition and exploration](https://github.com/Jean-Poul/Data-Science-Exam-Project/blob/main/README-STAGE2.md)  
+[Stage 3: Using the data and the exploration results for building predictive models](https://github.com/Jean-Poul/Data-Science-Exam-Project/blob/main/README-STAGE3.md)
+
