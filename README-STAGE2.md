@@ -35,7 +35,7 @@ selected business CPH Business 2022 Spring {tdi, ste}@cphbusiness.dk
 - See the jupyter notebook for the below points.  
 
 a. meaningful – describes relevant and correctly measured features and observations  
-b. sufficient – describes various cases and feature occurrences, decided by testing 
+b. sufficient – describes various cases and feature occurrences, decided by testing   
 c. shaped – presented in a structure, appropriate for processing by machine learning 
 algorithms  
 d. cleaned – repaired from missing values and outliners  
