@@ -26,6 +26,3 @@ a. calculate appropriate measures to prove the validity of the models
 ### 5. Integrate the predictive model with the other modules in the scenario as appropriate, in a new AI prototype of your product.  
 - See the jupyter notebook.
 
-
-Export your solution files to Github and Peergrade.  
-Deadline: 20th May 2022
