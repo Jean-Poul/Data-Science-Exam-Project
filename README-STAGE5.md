@@ -19,4 +19,5 @@ The project solution hosted on Github includes the problem statement, motivation
 foundation, argumentation of choices, design, code, artefacts, outcomes, and implementation 
 instructions, as appropriate.  
 It is important to enable reproduction of the project functionality and results.  
+    
 Details about our project and a guide on how to run our model can be found on our landing page: [Project details and instructions](https://github.com/Jean-Poul/Data-Science-Exam-Project/blob/main/README.md)  
