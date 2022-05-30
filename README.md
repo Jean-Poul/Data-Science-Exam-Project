@@ -48,7 +48,9 @@ or
 ```shell
 Nvidia Goes Negative
 ```  
-
+  
+The model will then tell you if the stock in focus (NVIDIA) will be red or green on the day.  
+  
 ## Table of Contents for notebook
 * 1 Environment Setup
 * 2 Import and cleaning of data
