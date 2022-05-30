@@ -9,7 +9,41 @@ This is an exam project for Data Science on CPH Business software developer bach
 - Nina Lisakowski, cph-nl163
 
 ## Brief introduction:  
-Our focus will be to build a model which can analyze if news are negative or positive. The next step will be to evaluate if there is a direct correlation with these news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing/trading. Our model could be a tool to help newcommers to establish confidence in their investment/trade.  
+Our focus will be to build a model which can analyze if news have a negative or positive impact on a given stock. We will thereafter evaluate if there is a direct correlation with news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing or trading. Our model could be a tool to help newcommers to establish confidence in their investment or trading choices.  
+ 
+## Getting started  
+  
+```shell
+Run the whole jupyter notebook to get an understanding of all steps and thoughts taken throughout this project
+```   
+  
+## How to use the model:  
+
+To be able to test our model navigate into the /code folder and type the following: 
+  
+```shell
+!python stockpredictionwebapp.py
+```  
+
+The web application will be available in the browser on the following url: http://localhost:5000/  
+  
+```shell
+http://localhost:5000/  
+```   
+    
+A user will be met with a landing page where predictions can be made  
+  
+In the input field type a news headline to get a prediction from our model. Examples on a news headline could be:  
+  
+```shell
+Earnings beat NVDA
+```  
+  
+or  
+  
+```shell
+Nvidia Goes Negative
+```  
 
 ## Table of Contents for notebook
 * 1 Environment Setup

@@ -13,7 +13,7 @@ Ticker prices:
 https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
 
 ### 2. Collect and integrate the data sources in shared repository by either ETL (Extract Transform Load) or ELT (Extract Load Transform).  
-Our data will be loaded straight into the system to begin with. This might change further down the line. Thoughts:  
+Our data will be loaded straight into the system to begin with. This might change further down the line. Iitial thoughts:    
 - Webscrape news.  
 - Load data from our database.   
 
@@ -32,7 +32,7 @@ d. prepare a dashboard as a collection of diagrams and brief explanation that ca
 selected business CPH Business 2022 Spring {tdi, ste}@cphbusiness.dk  
 
 ### 4. Prepare the data for machine learning analysis, ensuring that the data is:  
-- See the jupyter notebook for the below points.  
+- See the jupyter notebook for the points below.  
 
 a. meaningful – describes relevant and correctly measured features and observations  
 b. sufficient – describes various cases and feature occurrences, decided by testing   
