@@ -14,7 +14,8 @@ Our focus will be to build a model which can analyze if news have a negative or 
 ## Getting started  
   
 ```shell
-Run the whole jupyter notebook to get an understanding of all steps and thoughts taken throughout this project
+Run the whole jupyter notebook to get an understanding of all steps and  
+thoughts taken throughout this project
 ```   
   
 ## How to use the model:  
@@ -23,8 +24,10 @@ To be able to test our model navigate into the /code folder and type the followi
   
 ```shell
 !python stockpredictionwebapp.py
-```  
-
+```
+    
+or run it through the jypyter notebook.  
+   
 The web application will be available in the browser on the following url: http://localhost:5000/  
   
 ```shell
