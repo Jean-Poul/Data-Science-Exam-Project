@@ -28,14 +28,12 @@ To be able to test our model navigate into the /code folder and type the followi
     
 or run it through the jypyter notebook.  
    
-The web application will be available in the browser on the following url: http://localhost:5000/  
+The web application will be available in the browser on the following url:  
   
-```shell
-http://localhost:5000/  
-```   
+[URL: http://localhost:5000/](http://localhost:5000/)  
     
-A user will be met with a landing page where predictions can be made  
-  
+A user will be met with a landing page where predictions can be made.  
+    
 In the input field type a news headline to get a prediction from our model. Examples on a news headline could be:  
   
 ```shell
