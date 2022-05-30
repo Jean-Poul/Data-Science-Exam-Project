@@ -11,13 +11,16 @@ This is an exam project for Data Science on CPH Business software developer bach
 ## Brief introduction:  
 Our focus will be to build a model which can analyze if news have a negative or positive impact on a given stock. We will thereafter evaluate if there is a direct correlation with news articles and the stock price. We find it interesting to investigate the psychological aspect of news outlets and how they can affect peoples investment choices. Furthermore the stock market is notoriously unpredictable and therefore it is interesting to challange ourselves to build a model that can predict the trends in the market. We expect to find a correlation between news from well established news outlets and with some probability be able to predict the trend of the stock in focus. An end user of our results may be someone who wants to take the first step into investing or trading. Our model could be a tool to help newcommers to establish confidence in their investment or trading choices.  
  
-## Getting started  
+## Getting started:  
   
 ```shell
 Run the whole jupyter notebook to get an understanding of all steps and  
 thoughts taken throughout this project
 ```   
   
+## Envorinment:  
+All imports can be found in the first section of our notebook. It it recommended to run the whole notebook to get all the necessary libraries installed on your computer.  
+    
 ## How to use the model:  
 
 To be able to test our model navigate into the /code folder and type the following: 
