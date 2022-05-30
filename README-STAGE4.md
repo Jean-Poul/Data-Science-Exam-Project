@@ -14,7 +14,8 @@ a. Consider applying animation, 3D visualisation, and VR/AR/MR (extended reality
 b. If impossible to implement, draw your ideas on paper or digital surface and add the image to your project assets.  
     
 We have applied two html pages in the visualization folder. These candlestock charts are interactive and a user can zoom in on specific timeframes or hover the mouse over a candlestick to view price action and a news headline attached on the day.  
-On the candlestick chart there has been attached moving averages to be able to use technical analysis on the given timeframe (two year chart).  
+On the candlestick chart there has been attached moving averages to be able to use technical analysis on the given timeframe (two year chart).   
+Furthermore we have attached two dashboard which can give an overview over our focus. The first dashboard looks at data regarding volume compared to gain or loss on the day. The second dashboard looks at data regarding news headlines compared to gain or loss on the day.  
 
 
 ### 4. Elaborate on the benefits of applying the above-mentioned visualisation techniques for data analytics  
