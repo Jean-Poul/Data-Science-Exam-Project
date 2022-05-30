@@ -42,7 +42,4 @@ e. scaled – transform data distributions in comparable scales, when necessary
 f. engineered – analyse all features and select the most informative for further processing
 
 
-Export your notebook solution to Github and a link to it in Peergrade.  
-Deadline: 6th May 2022
-
 
