@@ -18,7 +18,7 @@ Run the whole jupyter notebook to get an understanding of all steps and
 thoughts taken throughout this project
 ```   
   
-## Envorinment:  
+## Environment:  
 All imports can be found in the first section of our notebook. It it recommended to run the whole notebook to get all the necessary libraries installed on your computer.  
     
 ## How to use the model:  
