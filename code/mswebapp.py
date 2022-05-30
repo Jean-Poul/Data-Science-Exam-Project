@@ -10,14 +10,10 @@ from flask import Flask, request, jsonify, render_template
 #app = Flask(__name__)
 app = Flask(__name__, template_folder='../templates/')
 
-msmodel = joblib.load('../model/model.pkl')
+gnb_one = joblib.load('../model/gnb_one.pkl')
+spacyload = joblib.load('../model/spacy.pkl')
 
 @app.route('/', methods=['GET', 'POST'])
-
-@app.route('/hi/<name>')
-def hello(name = None):
-    return render_template('start.html', name=name)
-# name is parameter in the template: {{name}}
 
 @app.route('/predict')
 def predict():
@@ -26,12 +22,17 @@ def predict():
 @app.route('/predicted', methods=['GET', 'POST'])
 def predicted():
     if request.method == 'POST':
-        x1 = request.form['x1']
-        x2 = request.form['x2']
-        X = [[x1, x2]]
-        predicted = msmodel.predict(X)
-          
-        return render_template("predicted.html", content=X, prediction=predicted)
+        headline_input = request.form['input']
+
+        vec_tokens = []
+        for token in spacyload.pipe([headline_input]):
+            vec_tokens.append(token.vector)
+            
+        predicted_token = gnb_one.predict([vec_tokens[0]])[0]
+        
+        predicted_token = "the stock ending the day in green" if predicted_token == 1 else "the stock ending the day in red" 
+       
+        return render_template("predicted.html", content=headline_input, prediction=predicted_token)
     
 @app.route('/bye')
 def bye():
