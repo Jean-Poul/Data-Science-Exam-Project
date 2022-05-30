@@ -28,7 +28,7 @@ To be able to test our model navigate into the /code folder and type the followi
     
 or run it through the jypyter notebook.  
    
-The web application will be available in the browser on the following url:  
+The web application will be available in the browser on the following link:  
   
 [URL: http://localhost:5000/](http://localhost:5000/)  
     
