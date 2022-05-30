@@ -1,4 +1,3 @@
-
 # Stage 5: Exam Project  
 
 ### Objective: The final product of your research and development work during the semester is presented and discussed at the exam.  
