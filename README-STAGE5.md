@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stage 5: Exam Project  
 
 ### Objective: The final product of your research and development work during the semester is presented and discussed at the exam.  
@@ -5,6 +6,11 @@
 #### NOTE: We have only uploaded two datasets since all our other datasets are to big in size. Can be shown to the exam if needed.  
 
 
+=======
+Stage 5: Exam Project
+Objective: The final product of your research and development work during the semester is 
+presented and discussed at the exam.
+>>>>>>> 53efe3736e702c40b4ec0bc1c9452378e346e9aa
 As a pre-requisite, you need to 
 - have collected 80% of the study points, given for fulfilment of the semester assignments, 
 according the curriculum
