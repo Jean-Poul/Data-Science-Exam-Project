@@ -187,7 +187,7 @@ The model will then tell you if the stock in focus (NVIDIA) will be red or green
             * [3.6.3.2 All One Prediction - dataset three](#chapter3.6.3.2)
             * [3.6.3.3 Random Prediction - dataset three](#chapter3.6.3.3)
         * [3.6.4 Summary](#chapter3.6.4)
-    * [3.6 Summary](#chapter3.6)
+    * [3.7 Final Summary](#chapter3.7)
 * [4. Visualization](#chapter4)
     * [4.1 Setup](#chapter4.1)
     * [4.2 Charting data set one](#chapter4.2)
