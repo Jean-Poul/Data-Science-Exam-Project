@@ -11,7 +11,8 @@ This can be viewed when running our notebook
 
 ### 3. Design alternative/complementing interface, which provides extended user experience  
 a. Consider applying animation, 3D visualisation, and VR/AR/MR (extended reality) techniques.    
-b. If impossible to implement, draw your ideas on paper or digital surface and add the image to your project assets.    
+b. If impossible to implement, draw your ideas on paper or digital surface and add the image to your project assets.  
+    
 We have applied two html pages in the visualization folder. These candlestock charts are interactive and a user can zoom in on specific timeframes or hover the mouse over a candlestick to view price action and a news headline attached on the day.  
 On the candlestick chart there has been attached moving averages to be able to use technical analysis on the given timeframe (two year chart).  
 
