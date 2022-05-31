@@ -54,7 +54,7 @@ We will be more precise when we have chosen a subject but overall we have looked
 We have chosen to go with our first idea by looking at the stock market since we have an interest for this area and there is a lot of data to be found.   
 
 - Context:  
-During COVID-19 a lot of average people started to invest in the stock market due to many factors. However the average person investing on a hobbyist basis, without any formal degree, most likely use some kind of information source as a basis for their investment choices. We would except to see that traditional news outlets, still have a dominant influence over investment choices. Therefore by analyzing news outlets we could potentially predict the future trend of a stock, and thereby formulate a guide for our own investment choice.
+During COVID-19 a lot of average people started to invest in the stock market due to many factors. However, the average person investing on a hobbyist basis, without any formal degree, most likely use some kind of information source as a basis for their investment choices. We would except to see that traditional news outlets, still have a dominant influence over investment choices. Therefore, by analyzing news outlets we could potentially predict the future trend of a stock, and thereby formulate a guide for our own investment choice.
 
 - Purpose:  
 The purpose is to predict the future trend of a stock by looking at the publicity of the mentioned stock/company to guide our own investment plan.    
@@ -75,7 +75,7 @@ There is no correlation between news outlets and trends on the stock markets.
 
 ### 4. Prepare the technical platform needed for researching and developing the problem solution:  
 
-The following is an overview over our initial thoughts about our programming environment. This can change when further information has been gathered and scope of the assignment has been agreed apon.  
+The following is an overview over our initial thoughts about our programming environment. This can change when further information has been gathered and scope of the assignment has been agreed upon.  
 
 - Software tools:  
 Jupyter notebook  
